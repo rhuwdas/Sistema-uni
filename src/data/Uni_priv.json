@@ -1,0 +1,369 @@
+[
+{
+    "id": 1,
+    "Nombre": "Universidad Anáhuac Oaxaca",
+    "Descripcion": "La Universidad Anáhuac Oaxaca es una institución privada que forma parte de la Red de Universidades Anáhuac. Ofrece programas académicos de alta calidad en diversas áreas del conocimiento, incluyendo negocios, derecho, comunicación, ingeniería y más.",
+    "carrrera": ["Administración de Empresas", "Derecho", "Ingeniería Civil", "Comunicación", "Diseño Gráfico", "Negocios Internacionales"],
+    "contacto": {
+      "sitio_web": "https://www.anahuac.mx/oaxaca/",
+      "telefono": "951 506 6000",
+      "email": "informes@anahuacoaxaca.edu.mx",
+      "facebook": "https://www.facebook.com/AnahuacOaxaca"
+    },
+    "direccion": "Av. Universidad Anáhuac No. 705, Col. San Felipe del Agua, C.P. 68020, Oaxaca, Oax.",
+    "LOGO": {
+      "access": "public",
+      "path": "https://itmsanalytics.com/wp-content/uploads/logo-universidad-anahuac-300x188.png",
+      "name": "AnahuacOaxaca.png",
+      "type": "image",
+      "size": 320000,
+      "mime": "image/png",
+      "meta": {
+        "width": 300,
+        "height": 300
+      },
+      "url": "https://itmsanalytics.com/wp-content/uploads/logo-universidad-anahuac-300x188.png"
+    }
+  },
+  
+  {
+    "id": 2,
+    "Nombre": "Universidad Regional del Sur",
+    "Descripcion": "La Universidad La Salle Oaxaca es una institución educativa privada que ofrece programas en áreas como educación, ingeniería, negocios y más. Es parte de la Red Internacional de Universidades La Salle.",
+    "carrrera": ["Administración de Empresas", "Derecho", "Ingeniería Industrial", "Educación", "Psicología", "Diseño de Interiores"],
+    "contacto": {
+      "sitio_web": "https://www.urse.edu.mx/",
+      "telefono": "951 514 1410",
+      "email": "informes@urse.edu.mx",
+      "facebook": "https://www.facebook.com/URSEOaxaca"
+    },
+    "direccion": "Eulalio Gutiérrez 1002 Col. Miguel Alemán. Oaxaca. Oax. CP 68120 O <br> Libramiento Sur No.100 Esquina Hornos Ex-hacienda el Rosario" ,
+    "LOGO": {
+      "access": "public",
+      "path": "https://usco2.umap.org/Images/unv_logo/471_0_2113125e-f231-4247-957e-6ef0a6c45435.png",
+      "name": "Universidad regional del sur.png",
+      "type": "image",
+      "size": 3100,
+      "mime": "image/png",
+      "meta": {
+        "width": 300,
+        "height": 300
+      },
+      "url": "https://www.urse.edu.mx/wp-content/uploads/2020/11/LOGO-URSE-300x175-1.png.webp"
+    }
+  },
+  {
+    "id": 3,
+    "Nombre": "Universidad La Salle Oaxaca",
+    "Descripcion": "La Universidad La Salle Oaxaca es una institución educativa privada que ofrece programas en áreas como educación, ingeniería, negocios y más. Es parte de la Red Internacional de Universidades La Salle.",
+    "carrrera": ["Administración de Empresas", "Derecho","Ingeniería en sistemas computacionales y software", "Ingeniería Civil","Arquietetura", "Ingeniería Industrial", "Educación", "Psicología", "Diseño de Interiores"],
+    "contacto": {
+      "sitio_web": "https://ulsaoaxaca.edu.mx/",
+      "telefono": "951 502 3000",
+      "email": "informes@ulsaoaxaca.edu.mx",
+      "facebook": "https://www.facebook.com/LaSalleOaxaca"
+    },
+    "direccion": "Av. La Salle No. 101, Col. Reforma, C.P. 68050, Oaxaca, Oax.",
+    "LOGO": {
+      "access": "public",
+      "path": "",
+      "name": "LaSalleOaxaca.png",
+      "type": "image",
+      "size": 3100,
+      "mime": "image/png",
+      "meta": {
+        "width": 300,
+        "height": 300
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logo_de_la_Universidad_La_Salle_sin_letras.svg/255px-Logo_de_la_Universidad_La_Salle_sin_letras.svg.png"
+    }
+  },
+  {
+    "id": 4,
+    "Nombre": "Universidad Mesoamericana",
+    "Descripcion": "",
+    "carrrera": ["Licenciatura en Administración", " Licenciatura en Administración Turística", " Licenciatura en Arquitectura", " Licenciatura en Comunicación", "Licenciatura en Contaduría Pública", " Licenciatura en Derecho", " Licenciatura en Diseño Gráfico", "Licenciatura en Informática", " Licenciatura en Psicología", "Licenciatura en Pedagogía"],
+    "contacto": {
+      "sitio_web": "https://lameso.edu.mx/oaxaca/",
+      "telefono": "951 51 413 8",
+      "email": "comunicacioninstitucional@lameso.edu.mx",
+      "facebook": "https://www.facebook.com/UniversidadMesoamericanaOaxaca"
+    },
+    "direccion": "García Vigil 202, Centro Historico Oaxaca, Oax," ,
+    "LOGO": {
+      "access": "public",
+      "path": "https://usco2.umap.org/Images/unv_logo/471_0_2113125e-f231-4247-957e-6ef0a6c45435.png",
+      "name": "Univeridad Mesoamericana.png",
+      "type": "image",
+      "size": 3100,
+      "mime": "image/png",
+      "meta": {
+        "width": 300,
+        "height": 300
+      },
+      "url": "https://banner2.cleanpng.com/20180618/eer/kisspng-universidad-mesoamericana-universidad-de-san-carlo-universidad-tecnolgica-de-tabasco-5b2821297ed459.8921314515293565855195.jpg"
+
+      }
+  },
+  {
+    "id": 5,
+    "Nombre": "Universidad del mundo Maya Campus Oaxaca (UMMA Oaxaca ) ",
+    "Descripcion": "",
+    "carrrera": ["", " ", " ", " ", "", " ", " ", ""],
+    "contacto": {
+      "sitio_web": "https://www.umma.com.mx/ummaWeb/umma/OAXACA",
+      "telefono": "951 515 4716",
+      "email": "difusionoaxaca@umma.com.mx",
+      "facebook": "https://www.facebook.com/umma.campusoaxaca/?locale=es_LA"
+    },
+    "direccion": "Avenida Lázaro Cárdenas No. 3032, Col. Centro, Santa Lucía del Camino., Oaxaca de Juárez, Mexico" ,
+    "LOGO": {
+      "access": "public",
+      "path": "",
+      "name": "UMMA",
+      "type": "image",
+      "size": 3100,
+      "mime": "image/png",
+      "meta": {
+        "width": 300,
+        "height": 300
+      },
+      "url": "https://scontent.foax2-1.fna.fbcdn.net/v/t39.30808-6/327442508_512824480983677_6383964770974946702_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEHaTnYUgxUGy8tnqOjhv7jrIfgvVZsJFish-C9VmwkWHuPiZhXnxEVEjfjH7xuqIzngZRfFr1LdOTYbdft7AzZ&_nc_ohc=dbv4owZlvaEQ7kNvgGp79y6&_nc_ht=scontent.foax2-1.fna&oh=00_AYBhwo1WXHzPSwPJ1Kw73hayRwtufvFNRDzz44P-msQ8-w&oe=66D9706C"
+
+      }
+  },{
+    "id": 6,
+    "Nombre": "Universidad José Vasconcelos de Oaxaca",
+    "Descripcion": "",
+    "carrrera": ["Ciencias de la computacion", "Comunicación grafica" , "Cinecias Politicas", "Derecho", "Relaciones Internacionales", "Psicología", "Ciencias de la educacion", "Administración de Empresas", "Mercadotecnia", "Licenciatura en Contaduría Pública", "Comercio Internacional"],
+    "contacto": {
+      "sitio_web": "https://universidadvasconcelos.edu.mx/universidad/",
+      "telefono": "951 514 5420",
+      "email": "comunicacioninstitucional@univas.mx",
+      "facebook": "https://www.facebook.com/UnivasOaxaca?locale=es_LA"
+    },
+    "direccion": "Crespo 601, Oaxaca de Juárez, Mexico" ,
+    "LOGO": {
+      "access": "public",
+      "path": "",
+      "name": "Univas",
+      "type": "image",
+      "size": 3100,
+      "mime": "image/png",
+      "meta": {
+        "width": 300,
+        "height": 300
+      },
+      "url": "https://scontent.foax2-1.fna.fbcdn.net/v/t39.30808-6/336883925_552972556670151_2569477547602735330_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGZ-TytqDotTDREEbUbMrzW2MT1j74PE23YxPWPvg8TbZZ4fAes38YKckSXcrc-tfwDLzN9AabMDNzSmFbWUQFg&_nc_ohc=ATumivRHj9oQ7kNvgFP4JQB&_nc_ht=scontent.foax2-1.fna&oh=00_AYB666qhBjnhP8BD_36RWTdp8Z5RhQsVsRpNh79-CxqaGg&oe=66D98773"
+
+      }
+  },{
+    "id": 7,
+    "Nombre": "CLEU",
+    "Descripcion": "",
+    "carrrera": ["Licenciatura en Criminología, Criminalística y Técnicas ", "Licenciatura en Criminología, Criminalística y Técnicas","Licenciatura en Creación y Dirección de Empresas","Licenciatura en Sistemas de Calidad y Productividad"],
+    "contacto": {
+      "sitio_web": "https://www.facebook.com/CleuCampusOaxacaOficial",
+      "telefono": "951 501 1786",
+      "email": "incorporacion.oaxaca@cleu.edu.mx",
+      "facebook": "https://www.facebook.com/CleuCampusOaxacaOficial"
+    },
+    "direccion": "Camino Nacional 704 col. Santa Rosa Panzacola, Oaxaca de Juárez, Mexico" ,
+    "LOGO": {
+      "access": "public",
+      "path": "",
+      "name": "CLEU.png",
+      "type": "image",
+      "size": 3100,
+      "mime": "image/png",
+      "meta": {
+        "width": 300,
+        "height": 300
+      },
+      "url": "https://scontent.foax2-1.fna.fbcdn.net/v/t39.30808-6/432769587_732469272361171_6855459301993104355_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFsKsX8yq4A0tH0h3ZtwXE_oMkeySDU-76gyR7JINT7vkLHg4vL2V0S4eHTvSzzJK3Toc17SHKvU1OHuBw2bpLK&_nc_ohc=xEGCwUb3AhQQ7kNvgGnfvTr&_nc_ht=scontent.foax2-1.fna&oh=00_AYAjzsfUlnRUyDJqjxIayO5MbQjHUAxeb4pA-hyOVk6XEg&oe=66D9B205"
+
+      }
+  },{
+    "id": 8,
+    "Nombre": "Instituto Tecnológico de la Construcción ",
+    "Descripcion": "",
+    "carrrera": ["Ingeriero Constructor", "Arquietecto constructor"],
+    "contacto": {
+      "sitio_web": "https://www.itcoaxaca.com/",
+      "telefono": "951 109 9847",
+      "email": "info.oaxaca@itc-ac.edu.mx",
+      "facebook": "https://www.facebook.com/ITCCampusOaxaca"
+    },
+    "direccion": "Pilar Roldán 202 Colonia Olimpica, Oaxaca de Juárez, Mexico" ,
+    "LOGO": {
+      "access": "public",
+      "path": "",
+      "name": "",
+      "type": "image",
+      "size": 3100,
+      "mime": "image/png",
+      "meta": {
+        "width": 300,
+        "height": 300
+      },
+      "url": "https://scontent.foax2-1.fna.fbcdn.net/v/t39.30808-6/314116367_490067383143968_7363633549491436044_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEhCI3dcRCodfpQiFqqEvcDSEeZ0iLLeCZIR5nSIst4Ji5_zVgFcXNCcOReu9Foj2zeYjS60NEfZGeMTr_cqkdQ&_nc_ohc=hwIuQ8aVaZEQ7kNvgE7YtAU&_nc_ht=scontent.foax2-1.fna&oh=00_AYB1bzWCIxgMTtOLY-XI78wtfSxZuUrwoGvU1VYE7srPyg&oe=66D9A2A9"
+
+      }
+  },{
+    "id": 9,
+    "Nombre": "Instituto Universitario Antequera de Oaxaca",
+    "Descripcion": "Cam. Nacional 514, Presidentes de Mexico, 68276 Oaxaca de Juárez, Oax.",
+    "carrrera": ["Licenciatura en Pedagogía"],
+    "contacto": {
+      "sitio_web": "http://institutounao.com.mx/",
+      "telefono": "+529512268662",
+      "email": "educacioncontinua@institutounao.com.mx",
+      "facebook": "https://www.facebook.com/instituto.UNAO"
+    },
+    "direccion": "Cam. Nacional 514, Presidentes de Mexico, 68276 Oaxaca de Juárez, Oax." ,
+    "LOGO": {
+      "access": "public",
+      "path": "",
+      "name": "",
+      "type": "image",
+      "size": 3100,
+      "mime": "image/png",
+      "meta": {
+        "width": 300,
+        "height": 300
+      },
+      "url": "https://scontent.foax2-1.fna.fbcdn.net/v/t39.30808-6/345424269_1441208090044104_7182437631328741996_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH_J2yL7J-sCrrgs_YpBxQEDk9l8r-DQJsOT2Xyv4NAm_xfl7S7pmJAXu-RzcJrFTu9fwcPoo7xvLXdMwAm1iuk&_nc_ohc=dVmwWH7RYVQQ7kNvgH6vW-r&_nc_ht=scontent.foax2-1.fna&oh=00_AYAsp2Hlp7tCTpbcMi5lRfWpSMqeCIyZZjsomqBUVdWTmw&oe=66D99E25"
+
+      }
+  },{
+    "id": 10,
+    "Nombre": "Instituto de Estudios Superiores de Oaxaca",
+    "Descripcion": "",
+    "carrrera": [" Licenciatura en Psicología", " Licenciatura en Psicología", "Ingeniería en sistemas computacionales", "Licenciatura en Pedagogía", "Cinecias Politicas y administracion publica", " Licenciatura en Derecho", "Licenciatura en Administración", "historia", "Licenciatura en Contaduría Pública y gestion empresarial"],
+    "contacto": {
+      "sitio_web": "",
+      "telefono": "951 459 0067",
+      "email": "info@ieso.edu.mx",
+      "facebook": "https://www.facebook.com/ieso.oaxaca"
+    },
+    "direccion": "Calzada Madero #631, Oaxaca de Juarez, Oaxaca." ,
+    "LOGO": {
+      "access": "public",
+      "path": "ieso.edu.mx",
+      "name": "ieso.png",
+      "type": "image",
+      "size": 3100,
+      "mime": "image/png",
+      "meta": {
+        "width": 300,
+        "height": 300
+      },
+      "url": "https://scontent.foax2-1.fna.fbcdn.net/v/t39.30808-6/285505715_5639469946072828_8441988356340140029_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF21WkSN2yAtdVuOZnVso2fOnhx05gQ5Xc6eHHTmBDld4NCjZ8jmApsJD20-jXnwrUN731lY0xg1CvudQesQuUx&_nc_ohc=g6jvRpMvd9EQ7kNvgFgFWML&_nc_ht=scontent.foax2-1.fna&_nc_gid=AD7knQYrupacSFwG9SxnFcZ&oh=00_AYD4ItwtbQkiS8dzbgKlN5lHDSaUEXFd8iAn-8aFAvs5Ig&oe=66D991EF"
+
+      }
+  },{
+    "id": 11,
+    "Nombre": "Multiversidad Mundo Sin Fronteras ",
+    "Descripcion": "",
+    "carrrera": [" Licenciatura en enfermeria", " Licenciatura en Derecho", "Licenciatura en idiomas"],
+    "contacto": {
+      "sitio_web": "https://sinfronteras.edu.mx/",
+      "telefono": "951 513 7679",
+      "email": "info@sinfronteras.edu.mx",
+      "facebook": "https://www.facebook.com/msfoaxaca"
+    },
+    "direccion": "Pensamientos 101 B, Colonia Reforma, Oaxaca de Juárez, Mexico" ,
+    "LOGO": {
+      "access": "public",
+      "path": "",
+      "name": "MSF.jng",
+      "type": "image",
+      "size": 3100,
+      "mime": "image/png",
+      "meta": {
+        "width": 300,
+        "height": 300
+      },
+      "url": "https://scontent.foax2-1.fna.fbcdn.net/v/t39.30808-6/313425189_552475086881812_1758564986751430814_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGXWz5pXXy1raGNb3Ty1Cips_oWvPvyiKuz-ha8-_KIqwPKUvEjVUSDPtQmEnCWOeb_uQdmw4k3CHfOk_lq7Ra-&_nc_ohc=-R8GC6aSATwQ7kNvgEfzwwt&_nc_ht=scontent.foax2-1.fna&oh=00_AYCYIQAlmHvIkpqic8Dy_j3WRI4N5TQIcuDL9N3HfwvgeA&oe=66D99ACC"
+
+      }
+  },{
+    "id": 12,
+    "Nombre": "Instituto de Ciencias Jurídicas de Oaxaca ",
+    "Descripcion": "",
+    "carrrera": [" Licenciatura en Derecho"],
+    "contacto": {
+      "sitio_web": "https://www.icjo.edu.mx/",
+      "telefono": "951 518 6240",
+      "email": "depto.promocion@icjo.edu.mx",
+      "facebook": "https://www.facebook.com/ICJOAC?locale=es_LA"
+    },
+    "direccion": "AV. JUÁREZ 201A ESQ. AV. MORELOS, CENTRO, OAX, Oaxaca de Juárez, Mexico" ,
+    "LOGO": {
+      "access": "public",
+      "path": "",
+      "name": "Ciencias.png",
+      "type": "image",
+      "size": 3100,
+      "mime": "image/png",
+      "meta": {
+        "width": 300,
+        "height": 300
+      },
+      "url": "https://scontent.foax2-1.fna.fbcdn.net/v/t39.30808-6/417797492_851801636955636_4851984018812220602_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHPFYIrEYog85rbRDqDHtEVN9yfOXM4GWw33J85czgZbKizsOkMgK1cIPnzwkw8SDzKniYG_TO36iOwGPjrW8KH&_nc_ohc=NMQ4WiUgthMQ7kNvgFor8pG&_nc_ht=scontent.foax2-1.fna&oh=00_AYDHqMYIL4WilbQuZGPSete1-Ir3jKaHVm4_TdoHuhly9g&oe=66D983B0"
+
+      }
+  },{
+    "id": 13,
+    "Nombre": "Centro Universitario Casandoo ",
+    "Descripcion": "",
+    "carrrera": [" Licenciatura en Arquitectura", " Licenciatura en Administración Turística", " Licenciatura en ciencias de la educacion", " ", "", " ", " ", ""],
+    "contacto": {
+      "sitio_web": "https://www.casandoo.edu.mx/",
+      "telefono": "951 129 5150",
+      "email": "contacto@casandoo.edu.mx",
+      "facebook": "https://www.facebook.com/casandoo"
+    },
+    "direccion": "Carretera a Atzompa #9, Oaxaca de Juárez, Mexico" ,
+    "LOGO": {
+      "access": "public",
+      "path": "",
+      "name": "CUC.png",
+      "type": "image",
+      "size": 3100,
+      "mime": "image/png",
+      "meta": {
+        "width": 300,
+        "height": 300
+      },
+      "url": "https://media.licdn.com/dms/image/v2/C4D0BAQHMeJ7g0xJONg/company-logo_200_200/company-logo_200_200/0/1677511164993?e=2147483647&v=beta&t=z8FYxCDVRehmVoKzl0YTGubUMuG-TkHYIVgVEbTWOQs"
+
+      }
+  },{
+    "id": 14,
+    "Nombre": "Universidad CNCI",
+    "Descripcion": "",
+    "carrrera": ["NEGOCIOS INTERNACIONALES", "Ingeniería Industrial y de sistemas", "MERCADOTECNIA", " ", "", " ", " ", ""],
+    "contacto": {
+      "sitio_web": "https://www.facebook.com/UniversidadCNCIOficial",
+      "telefono": "81 2013 1956",
+      "email": "",
+      "facebook": "https://www.facebook.com/UniversidadCNCIOficial"
+    },
+    "direccion": "" ,
+    "LOGO": {
+      "access": "public",
+      "path": "",
+      "name": "CNCI.png",
+      "type": "image",
+      "size": 3100,
+      "mime": "image/png",
+      "meta": {
+        "width": 300,
+        "height": 300
+      },
+      "url": "https://scontent.foax2-1.fna.fbcdn.net/v/t39.30808-6/453409661_884475263718560_6841451964408206136_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEtwVgPIR_-SsWvLc0gx5cXX4HuCe5RinVfge4J7lGKddrMjsNt4zIPK2NWgkBFA4lbXAUPBu2ViE0t1X2z8Eq6&_nc_ohc=EItO4sYUWmwQ7kNvgHMQP_N&_nc_ht=scontent.foax2-1.fna&oh=00_AYBiyLzAuZFnifsyJDKjp2-kAS-Pj0f9Lq64JeON_JXmnQ&oe=66D99578"
+
+      }
+  }
+]

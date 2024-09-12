@@ -1,0 +1,105 @@
+/* Reset general */
+body, ul, li, h2, p, a {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+  }
+  
+  header {
+    height: 450px;
+    background-color: #292929;
+    margin-bottom: 26px;
+    background-image: url("https://www.unir.net/wp-content/uploads/2021/04/la-universidad-que-necesitamos_c-2-1.jpg");
+   background-repeat: no-repeat;
+    background-size:100% ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.U-header-P{
+  font-size: 22px;
+  font-weight: 900;
+}
+  .nav-bar {    
+    background: #000000;
+    padding: 1rem;
+    position: fixed;
+    top: 13px;
+    right: 13px;
+    z-index: 10;
+    border-radius: 13px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  }
+  
+  .nav-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+  }
+  
+  .nav-menu > li {
+    position: relative;
+  }
+  
+  .nav-section > a {
+    color: #ffffff;
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: background-color 5s ease;
+
+  }
+  
+  .nav-section > a:hover {
+    background-color: #757575; 
+    color: white;
+  }
+  
+  .nav-submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #2c2c2c;
+    padding: 0.5rem 0;
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    opacity: 0;
+    transform: translateY(-10px);
+    z-index: 1000;
+  }
+  
+  .nav-section:hover .nav-submenu {
+    display: block;
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .nav-submenu li a {
+    color: #ffffff;
+    padding: 0.5rem 1rem;
+    display: block;
+    transition: background-color 0.3s ease;
+  }
+  
+  .nav-submenu li a:hover {
+    background-color: #5b5b5b;
+  }
+  
+  /* Enlaces secundarios */
+  .nav-menu a {
+    color: #ffffff;
+    font-size: 1.1rem;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s ease;
+    border-radius: 5px;
+  }
+  
+  .nav-menu a:hover {
+    background-color: #545454;
+  }
+  
+

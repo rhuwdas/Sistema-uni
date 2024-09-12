@@ -1,0 +1,295 @@
+.form-section {
+    margin-bottom: 40px;
+}
+
+/* .form-container {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+} */
+    /* background-color: #1a1a1a; */
+.form-container{
+        border-radius: 10px;
+    box-shadow: -1px 1px 20px 11px rgba(255, 255, 255, 0.18);
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    }
+.form_dat{
+    display: inline;
+    text-align: center;
+    margin: auto;
+}
+h1 {
+    font-size: 24px;
+    color: #007BFF;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    color: #666;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.instructions h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.instructions ul {
+    margin-bottom: 20px;
+}
+
+.instructions ul li {
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.dot {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+/* Colores de las bolas */
+.dot-4 {
+    background-color: green;
+}
+
+.dot-3 {
+    background-color: lightgreen;
+}
+
+.dot-2 {
+    background-color: yellow;
+}
+
+.dot-1 {
+    background-color: orange;
+}
+
+.dot-0 {
+    background-color: red;
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+.question label {
+    font-size: 16px;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.options {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 23px;
+}
+
+/* Esconder los radio buttons y mostrar solo las bolas de colores */
+input[type="radio"] {
+    display: none;
+}
+
+input[type="radio"] + label {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+/* Efecto al seleccionar */
+input[type="radio"]:checked + label {
+    transform: scale(1.2);
+    border: 3px solid #ffffff;
+}
+
+.submit-btn {
+    width: 100%;
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submit-btn:hover {
+    background-color: #0056b3;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    .form-container {
+        padding: 15px;
+    }
+
+    .options {
+        gap: 5px;
+    }
+}
+.Hola {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 38px;
+}
+
+
+.container {
+  position: relative;
+  width: 900px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  position: relative;
+  width: 250px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 4px;
+  overflow: hidden;
+  transition: 0.5s;
+  background-color: #161616;
+
+}
+.card::before {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: -50%;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.percent {
+  position: relative;
+  z-index: 1000;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  box-shadow: inset 0 0 50px #000;
+  background-color: #222222;
+}
+.percent .number {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.percent .number h2 {
+  color: #777777;
+  font-weight: 700;
+  font-size: 40px;
+  transition: 0.5s;
+}
+.percent .number h2 span {
+  font-size: 24px;
+  color: #777;
+  transition: 0.5s;
+}
+
+.text {
+  position: relative;
+  color: #e2e2e2;
+  margin-top: 20px;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  transition: 0.5s;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
+}
+.card:hover .percent .number h2 {
+  color: #fff;
+  font-size: 60px;
+}
+.card:hover .percent .number h2 span {
+  color: #fff;
+}
+.card:hover .text {
+  color: #ffffff;
+}
+.card:hover svg {
+  position: relative;
+  z-index: 1000;
+  width: 150px;
+  height: 150px;
+}
+
+svg circle {
+  width: 100%;
+  height: 100%;
+  fill: none;
+  stroke: #191919;
+  stroke-width: 10;
+  stroke-linecap: round;
+}
+
+
+
+@keyframes rellenar{
+    to{
+      stroke-dasharray: var(--porcentaje) 100;
+    }
+  }
+
+  body{
+    display: flex;
+    gap: 30px;
+  }
+
+  .porcentajes{
+    position:relative;
+  }
+  .porcentajes span{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    bottom: 0%;
+    right: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font: 25px/1em Verdana;
+  }
+
+  circle{
+    fill: none;
+    stroke-width: 20;
+    transform: rotate(-90deg);
+    transform-origin: 50%;
+    stroke-dasharray: 100 100;
+    stroke: #AAA;
+  }
+  

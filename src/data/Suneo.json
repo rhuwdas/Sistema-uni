@@ -1,0 +1,430 @@
+[
+  {
+    "id": 1,
+    "Nombre": "Universidad Tecnologica de la Mixteca",
+    "Descripcion": "Es una universidad perteneciente al sistema SUNEO que se ubica en: Y cuenta con las siguientes carreras a nivel Licenciatura",
+    "carrrera": [
+      "Ingeniería en Computación",
+      "Ingeniería en Electrónica",
+      "Ingeniería en Diseño",
+      "Licenciatura en Ciencias Empresariales",
+      "Licenciatura en Matemáticas Aplicadas",
+      "Ingeniería en Alimentos",
+      "Ingeniería Industrial",
+      "Licenciatura en Estudios Mexicanos (modalidad virtual)",
+      "Ingeniería en Mecatrónica",
+      "Ingeniería en Física Aplicada",
+      "Ingeniería en Mecánica Automotriz",
+      "Ingeniería Civil",
+      "Ingeniería Química en Procesos Sostenibles"
+    ],
+    "contacto": {
+      "sitio_web": "https://www.utm.mx/",
+      "telefono": "953 532 0214",
+      "facebook": "https://www.facebook.com/profile.php?id=100057411799887",
+      "email": "https://www.facebook.com/profile.php?id=100057411799887"
+    },
+    "postgrado": [
+      "Maestría en Administración de Negocios (BECAS CONACYT)",
+      "Maestría en Ciencias de Materiales (BECAS CONACYT)",
+      "Maestría en Ciencias: Productos Naturales y Alimentos (BECAS CONACYT)",
+      "Maestría en Diseño de Modas (BECAS CONACYT)",
+      "Maestría en Diseño de Muebles (BECAS CONACYT)",
+      "Maestría en Electrónica, Opción en Sistemas Inteligentes Aplicados (BECAS CONACYT)",
+      "Maestría en Ingeniería de Software (BECAS CONACYT)",
+      "Maestría en Inteligencia Artificial (BECAS CONACYT)",
+      "Maestría en Medios Interactivos (BECAS CONACYT)",
+      "Maestría en Modelación Matemática (BECAS CONACYT)",
+      "Maestría en Robótica (BECAS CONACYT)",
+      "Maestría en Tecnología Avanzada de Manufactura (BECAS CONACYT)",
+      "Maestría en Ciencia de Datos (modalidad virtual)",
+      "Doctorado en Ciencias: Productos Naturales y Alimentos (BECAS CONACYT)",
+      "Doctorado en Electrónica Especialidad: Sistemas Inteligentes Aplicados (BECAS CONACYT)",
+      "Doctorado en Inteligencia Artificial (BECAS CONACYT)",
+      "Doctorado en Modelación Matemática (BECAS CONACYT)",
+      "Doctorado en Robótica (BECAS CONACYT)"
+    ],
+    "direccion": "Av. Doctor Modesto Seara Vázquez No.1, Huajuapan, Mexico",
+    "LOGO": {
+      "access": "public",
+      "path": "web/sites/default/files/escudos/01-UTM-02.png",
+      "name": "Universidad Unimar",
+      "type": "image",
+      "mime": "image/png",
+      "meta": {
+        "width": "300",
+        "height": "300"
+      },
+      "url": "https://www.suneo.mx/web/sites/default/files/escudos/01-UTM-02.png"
+    }
+  },
+  {
+    "id": 2,
+    "Nombre": "Universidad del Mar",
+    "campus": [
+      {
+        "id-two": 1,
+        "Nombre": "Universidad del Mar Campus Puerto Ángel",
+        "Descripcion": "Es una universidad perteneciente al sistema SUNEO que se ubica en: Y cuenta con las siguientes carreras a nivel Licenciatura",
+        "carrrera": [
+          "Ingeniería Ambiental",
+          "Licenciatura en Biología Marina",
+          "Ingeniería en Acuicultura",
+          "Licenciatura en Oceanología"
+        ]
+      },
+      {
+        "id-two": 2,
+        "Nombre": "Universidad del Mar Campus Puerto Escondido",
+        "Descripcion": "Es una universidad perteneciente al sistema SUNEO que se ubica en: Y cuenta con las siguientes carreras a nivel Licenciatura",
+        "carrrera": [
+          "Ingeniería Forestal",
+          "Licenciatura en Biología",
+          "Licenciatura en Informática",
+          "Licenciatura en Enfermería",
+          "Licenciatura en Zootecnia"
+        ]
+      },
+      {
+        "id-two": 3,
+        "Nombre": "Universidad del Mar Campus Huatulco",
+        "Descripcion": "Es una universidad perteneciente al sistema SUNEO que se ubica en: Y cuenta con las siguientes carreras a nivel Licenciatura",
+        "carrrera": [
+          "Licenciatura en Actuaría",
+          "Licenciatura en Administración Turística",
+          "Licenciatura en Ciencias de la Comunicación",
+          "Licenciatura en Economía",
+          "Licenciatura en Relaciones Internacionales",
+          "Licenciatura en Ciencias Marítimas"
+        ]
+      }
+    ],
+    "contacto": {
+      "sitio_web": "https://www.umar.mx/",
+      "telefono": "(958) 5 87 25 59",
+      "facebook": "https://www.facebook.com/suneo.umar",
+      "email": "umar.suneo@gmail.com"
+    },
+    "direccion": "Km 250, México 200, 70989 Bahías de Huatulco, Oax.",
+    "LOGO": {
+      "access": "public",
+      "path": "web/sites/default/files/escudos/02-UMAR_small.png",
+      "name": "Universidad de",
+      "type": "image",
+      "mime": "image/png",
+      "meta": {
+        "width": "300",
+        "height": "300"
+      },
+      "url": "https://www.suneo.mx/web/sites/default/files/escudos/02-UMAR_small.png"
+    }
+  },
+  {
+    "id": 3,
+    "Nombre": "Universidad del Istmo ",
+    "Descripcion": "Es una universidad perteneciente al sistema SUNEO que se ubica en: Y cuenta con las siguientes carreras a nivel Licenciatura",
+    "campus": [
+      {
+        "id-two": 1,
+        "Nombre": "Universidad del Istmo campus Juchitán",
+        "Descripcion": "Es una universidad perteneciente al sistema SUNEO que se ubica en: Y cuenta con las siguientes carreras a nivel Licenciatura",
+        "carrrera":[
+        "Licenciatura en Nutrición",
+        "Licenciatura en Enfermería"
+      ],
+      "dirrecion": ""
+      },
+      {
+        "id-two": 2,
+        "Nombre": "Universidad del Istmo campus Ixtepec",
+        "Descripcion": "Es una universidad perteneciente al sistema SUNEO que se ubica en: Y cuenta con las siguientes carreras a nivel Licenciatura",
+        "carrrera": [
+          "Lic. en Administración Pública",
+          "Lic. en Ciencias Empresariales",
+          "Lic. en Informática",
+          "Lic. en Derecho"
+      ],
+      "dirrecion": ""
+      },
+      {
+        "id-two": 3,
+        "Nombre": "Universidad del Istmo campus Tehuantepec",
+        "Descripcion": "Es una universidad perteneciente al sistema SUNEO que se ubica en: Y cuenta con las siguientes carreras a nivel Licenciatura",
+        "carrrera": [
+          "Ingeniería Química",
+          "Ingeniería de Petróleos",
+          "Ingeniería en Diseño",
+          "Ingeniería en Computación",
+          "Ingeniería Industrial",
+          "Licenciatura en Matemáticas Aplicadas",
+          "Ingeniería en Energías Renovables"
+    ],
+    "dirrecion": ""
+  }
+    ],
+    
+    "contacto": {
+      "sitio_web": "http://www.unistmo.edu.mx/",
+      "telefono": "",
+      "facebook": "https://www.facebook.com/profile.php?id=100063533500512",
+      "email": "unistmo.suneo@gmail.com"
+    },
+    "direccion": "",
+    "LOGO": {
+      "access": "public",
+      "path": "web/sites/default/files/escudos/03-UNISTMO_small.png",
+      "name": "Universidad del Istmo",
+      "type": "image",
+      "mime": "image/png",
+      "meta": {
+        "width": "300",
+        "height": "300"
+      },
+      "url": "https://www.suneo.mx/web/sites/default/files/escudos/03-UNISTMO_small.png"
+    }
+  },
+  {
+    "id": 8,
+    "Nombre": "Universidad del Papaloapan ",
+    "Descripcion": "Es una universidad perteneciente al sistema SUNEO que se ubica en: Y cuenta con las siguientes carreras a nivel Licenciatura",
+    "campus": [ 
+      {
+        "id-two":"Universidad del Papaloapan campus Loma Bonita",
+        "carrrera": [
+          "Ingeniería en Acuicultura",
+          "Ingeniería en Computación",
+          "Ingeniería en Diseño",
+          "Licenciatura en Zootecnia",
+          "Ingeniería en Mecatrónica",
+          "Licenciatura en Matemáticas Aplicadas",
+          "Ingeniería Agrícola Tropical"
+        ],
+      "dirrecion": ""
+      },
+      {
+        "id-two": 9,
+        "Nombre": "Universidad del Papaloapan campus Tuxtepec",
+        "Descripcion": "Es una universidad pertenteciente al sistema SUNEO que se ubica en:     Y cuenta con las siguientes carreras a nivel Licenciatura",
+        "carrrera": [
+          "Ingeniería en Alimentos",
+          "Licenciatura en Ciencias Empresariales",
+          "Licenciatura en Ciencias Químicas",
+          "Ingeniería en Biotecnología",
+          "Licenciatura en Enfermería",
+          "Licenciatura en Medicina"
+          ],
+      "dirrecion": ""
+      }
+    ],
+   
+    "contacto": {
+      "sitio_web": "https://www.unpa.edu.mx/",
+      "telefono": "",
+      "facebook": "https://www.facebook.com/Universidad.del.Papalopan",
+      "email": "https://www.facebook.com/Universidad.del.Papalopan"
+    },
+    "direccion": "",
+    "LOGO": {
+      "access": "public",
+      "path": "web/sites/default/files/escudos/04-UNPA_small.png",
+      "name": "Universidad del Papaloapan",
+      "type": "image",
+      "mime": "image/png",
+      "meta": {
+        "width": "300",
+        "height": "300"
+      },
+      "url": "https://www.suneo.mx/web/sites/default/files/escudos/04-UNPA_small.png"
+    }
+  }, 
+  {
+    "id": 10,
+    "Nombre": "Universidad del la Sierra sur",
+    "Descripcion": "Es una universidad pertenteciente al sistema SUNEO que se ubica en:     Y cuenta con las siguientes carreras a nivel Licenciatura",
+    "carrrera": [
+      "Licenciatura en Nutrición",
+      "Licenciatura en Ciencias Empresariales",
+      "Licenciatura en Administracion Publica",
+      "Licenciatura en Informática",
+      "Licenciatura en Enfermería",
+      "Licenciatura en Administración Municipal+ ",
+      "Licenciatura en Odontología ",
+      "Licenciatura en Medicina ",
+      "Licenciatura en Ciencias Biomédicas"
+    ],
+    "contacto": {
+      "sitio_web": "https://www.unsis.edu.mx/",
+      "telefono": "951 572 4100",
+      "facebook": "https://www.facebook.com/suneounsis",
+      "email": ""
+    },
+    "direccion": "",
+    "LOGO": {
+      "access": "public",
+      "path": "web/sites/default/files/escudos/05-UNSIS_small.png",
+      "name": "Universidad de",
+      "type": "image",
+      "mime": "image/png",
+      "meta": {
+        "width": "300",
+        "height": "300"
+      },
+      "url": "https://www.suneo.mx/web/sites/default/files/escudos/05-UNSIS_small.png"
+    }
+  },
+  {
+    "id": 11,
+    "Nombre": "Universidad del la Sierra Juarez",
+    "Descripcion": "Es una universidad pertenteciente al sistema SUNEO que se ubica en:     Y cuenta con las siguientes carreras a nivel Licenciatura",
+    "carrrera": [
+      "Ingeniería Forestal",
+      "Licenciatura en Ciencias Ambientales para el Desarrollo Comunitario",
+      "Ingeniería en Desarrollo de Software y Sistemas Inteligentes",
+      "Licenciatura en Biología",
+      "Licenciatura en Administración Turística"
+    ],
+    "contacto": {
+      "sitio_web": "https://www.unsij.edu.mx/",
+      "telefono": "951 553 6362",
+      "facebook": "https://www.facebook.com/UNSIJ.SUNEO",
+      "email": "unsij.suneo@gmail.com"
+    },
+    "direccion": "Avenida Universidad S/N, Ixtlán de Juárez, Mexico",
+    "LOGO": {
+      "access": "public",
+      "path": "web/sites/default/files/escudos/",
+      "name": "Universidad de",
+      "type": "image",
+      "mime": "image/png",
+      "meta": {
+        "width": "300",
+        "height": "300"
+      },
+      "url": "https://www.suneo.mx/web/sites/default/files/escudos/06-UNSIJ_small.png"
+    }
+  },
+  {
+    "id": 12,
+    "Nombre": "Universidad de la Cañada",
+    "Descripcion": "Es una universidad pertenteciente al sistema SUNEO que se ubica en:     Y cuenta con las siguientes carreras a nivel Licenciatura",
+    "carrrera": [
+      "Ingeniería en Alimentos",
+      "Licenciatura en Producción Sustentable",
+      "Ingeniería en Farmacobiología",
+      "Licenciatura en Informática",
+      "Licenciatura en Química Clínica",
+      "Licenciatura en Nutrición"
+    ],
+    "contacto": {
+      "sitio_web": "https://www.unca.edu.mx/",
+      "telefono": "236 117 0281",
+      "facebook": "https://www.facebook.com/SUNEO.UNCA",
+      "email": ""
+    },
+    "direccion": "Carretera Teotitlán - San Antonio Nanahuatipán Km 1.7 s/n. Paraje Titlacuatitla, Teotitlán de Flores Magón, Mexico",
+    "LOGO": {
+      "access": "public",
+      "path": "web/sites/default/files/escudos/",
+      "name": "Universidad de",
+      "type": "image",
+      "mime": "image/png",
+      "meta": {
+        "width": "300",
+        "height": "300"
+      },
+      "url": "https://www.suneo.mx/web/sites/default/files/escudos/07-UNCA_small.png"
+    }
+  },{
+    "id": 13,
+    "Nombre": "Universiata NU",
+    "Descripcion": "Es una universidad pertenteciente al sistema SUNEO que se ubica en:     Y cuenta con las siguientes carreras a nivel Licenciatura",
+    "carrrera": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "contacto": {
+      "sitio_web": "",
+      "telefono": "",
+      "facebook": "",
+      "email": ""
+    },
+    "direccion": "",
+    "LOGO": {
+      "access": "public",
+      "path": "web/sites/default/files/escudos/",
+      "name": "Universidad de",
+      "type": "image",
+      "mime": "image/png",
+      "meta": {
+        "width": "300",
+        "height": "300"
+      },
+      "url": "https://www.suneo.mx/web/sites/default/files/escudos/08-NOVA_small.png"
+    }
+  },{
+    "id": 14,
+    "Nombre": "Universidad de la Costa ",
+    "Descripcion": "Es una universidad pertenteciente al sistema SUNEO que se ubica en:     Y cuenta con las siguientes carreras a nivel Licenciatura",
+    "carrrera": [
+      "Licenciatura en Enfermería",
+      "Licenciatura en Medicina Veterinaria"
+    ],
+    "contacto": {
+      "sitio_web": "https://www.uncos.edu.mx/",
+      "telefono": "954 543 4610",
+      "facebook": "https://www.facebook.com/profile.php?id=100057058497084",
+      "email": "escolares@uncos.edu.mx"
+    },
+    "direccion": "Carretera Libramiento Paraje Las Pulgas, C.P. 71600, colonia Cuauhtémoc, Santiago Pinotepa Nacional",
+    "LOGO": {
+      "access": "public",
+      "path": "web/sites/default/files/escudos/",
+      "name": "Universidad de",
+      "type": "image",
+      "mime": "image/png",
+      "meta": {
+        "width": "300",
+        "height": "300"
+      },
+      "url": "https://www.suneo.mx/web/sites/default/files/escudos/09-UNCOS_small.png"
+    }
+  },{
+    "id": 15,
+    "Nombre": "Universidad de Chalcatongo",
+    "Descripcion": "Es una universidad pertenteciente al sistema SUNEO que se ubica en:     Y cuenta con las siguientes carreras a nivel Licenciatura",
+    "carrrera": [
+      "Licenciatura en Contaduría Pública y Administración",
+      "Licenciatura en Enfermería",
+      "Licenciatura en Fisioterapia",
+      "Licenciatura en Gestión de Negocios Gastronómicos",
+      "Licenciatura en Nutrición"
+    ],
+    "contacto": {
+      "sitio_web": "https://www.unicha.edu.mx/",
+      "telefono": "951 362 9376",
+      "facebook": "https://www.facebook.com/profile.php?id=100057781354630",
+      "email": "https://www.unicha.edu.mx/"
+    },
+    "direccion": "Av. Universidad Sn Centro Chalcatongo de Hidalgo, 71100 Tlaxco, Oax",
+    "LOGO": {
+      "access": "public",
+      "path": "web/sites/default/files/escudos/",
+      "name": "Universidad de",
+      "type": "image",
+      "mime": "image/png",
+      "meta": {
+        "width": "300",
+        "height": "300"
+      },
+      "url": "https://www.suneo.mx/web/sites/default/files/escudos/10-UNICHA_small.png"
+    }
+  }
+]
+

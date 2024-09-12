@@ -1,0 +1,306 @@
+ [{
+        
+  "id": 1,  
+  "text": "Atender y cuidar enfermos.", 
+  "habilidad": "S.S" 
+},
+    { 
+      "id": 2, 
+      "text": "Intervenir activamente en las discusiones de clase.", 
+      "habilidad": "E.P" 
+    },
+    { 
+      "id": 3, 
+      "text": "Escribir cuentos, crónicas y artículos.", 
+      "habilidad": "V" },
+    
+      { 
+      "id": 4, 
+      "text": "Dibujar y pintar.", 
+      "habilidad": "A.P" 
+    },
+    { 
+      "id": 5, 
+      "text": "Cantar en un coro juvenil.", 
+      "habilidad": "M.S" 
+    },
+    { 
+      "id": 6, 
+      "text": "Llevar en orden tus libros y cuadernos.", 
+      "habilidad": "O.G" 
+    },
+    { 
+      "id": 7, 
+      "text": "Conocer y estudiar la estructura de las plantas y animales.", 
+      "habilidad": "C.T" 
+    },
+    { 
+      "id": 8, 
+      "text": "Resolver mecanizaciones numéricas.", 
+      "habilidad": "C.L" 
+    },
+    { 
+      "id": 9, 
+      "text": "Armar o desarmar objetos mecánicos.", 
+      "habilidad": "M.C" 
+    },
+    { 
+      "id": 10, 
+      "text": "Salir de excursión.", 
+      "habilidad": "A.L" 
+    },
+    { 
+      "id": 11, 
+      "text": "Proteger a los muchachos menos fuertes del grupo.", 
+      "habilidad": "S.S" 
+    },
+    { 
+      "id": 12, 
+      "text": "Ser jefe de una sociedad.", 
+      "habilidad": "E.P" 
+    },
+    { 
+      "id": 13, 
+      "text": "Leer obras literarias.", 
+      "habilidad": "V" },
+    
+      { 
+      "id": 14, 
+      "text": "Moldear el barro, plastilina o cualquier otro material.", 
+      "habilidad": "A.P" 
+    },
+    { 
+      "id": 15, 
+      "text": "Escuchar música clásica.", 
+      "habilidad": "M.S" 
+    },
+    { 
+      "id": 16, 
+      "text": "Ordenar y clasificar los libros de una biblioteca.", 
+      "habilidad": "O.G" 
+    },
+    { 
+      "id": 17, 
+      "text": "Hacer experimentos de laboratorio.", 
+      "habilidad": "C.T" 
+    },
+    { 
+      "id": 18, 
+      "text": "Resolver problemas de aritmética.", 
+      "habilidad": "C.L" 
+    },
+    { 
+      "id": 19, 
+      "text": "Manejar herramienta y maquinaria.", 
+      "habilidad": "M.C" 
+    },
+    { 
+      "id": 20, 
+      "text": "Pertenecer a un club de exploradores.", 
+      "habilidad": "A.L" 
+    },
+    { 
+      "id": 21, 
+      "text": "Ser miembro de una sociedad de ayuda y asistencia.", 
+      "habilidad": "S.S" 
+    },
+    { 
+      "id": 22, 
+      "text": "Dirigir la campaña política de un candidato estudiantil.", 
+      "habilidad": "E.P" 
+    },
+    { 
+      "id": 23, 
+      "text": "Hacer versos para una publicación.", 
+      "habilidad": "V" },
+    
+      { 
+      "id": 24, 
+      "text": "Encargarse del decorado de un lugar para un festival.", 
+      "habilidad": "A.P" 
+    },
+    { 
+      "id": 25, 
+      "text": "Aprender a tocar un instrumento musical.", 
+      "habilidad": "M.S" 
+    },
+    { 
+      "id": 26, 
+      "text": "Aprender a escribir en máquina y taquigrafía.", 
+      "habilidad": "O.G" 
+    },
+    { 
+      "id": 27, 
+      "text": "Investigar el origen de las costumbres de los pueblos.", 
+      "habilidad": "C.T" 
+    },
+    { 
+      "id": 28, 
+      "text": "Llevar las cuentas de una institución.", 
+      "habilidad": "C.L" 
+    },
+    { 
+      "id": 29, 
+      "text": "Construir objetos o muebles.", 
+      "habilidad": "M.C" 
+    },
+    { 
+      "id": 30, 
+      "text": "Trabajar al aire libre fuera de la ciudad.", 
+      "habilidad": "A.L" 
+    },
+    { 
+      "id": 31, 
+      "text": "Enseñar a leer a los analfabetos.", 
+      "habilidad": "S.S" 
+    },
+    { 
+      "id": 32, 
+      "text": "Hacer propaganda para la difusión de una idea.", 
+      "habilidad": "E.P" 
+    },
+    { 
+      "id": 33, 
+      "text": "Representar un papel en una obra teatral.", 
+      "habilidad": "V" },
+    
+      { 
+      "id": 34, 
+      "text": 
+    "Idear y diseñar el estudio de un club o sociedad.", 
+    "habilidad": "A.P" 
+  },
+    { 
+      "id": 35, 
+      "text": "Ser miembro de una asociación musical.", 
+      "habilidad": "M.S" 
+    },
+    { 
+      "id": 36, 
+      "text": "Ayudar a calificar pruebas.", 
+      "habilidad": "O.G" 
+    },
+    { 
+      "id": 37, 
+      "text": "Estudiar y entender las causas de los movimientos sociales.", 
+      "habilidad": "C.T" 
+    },
+    { 
+      "id": 38, 
+      "text": "Explicar a otros cómo resolver problemas de matemáticas.", 
+      "habilidad": "C.L" 
+    },
+    { 
+      "id": 39, 
+      "text": "Reparar las instalaciones eléctricas, de gas o plomería en su casa.", 
+      "habilidad": "M.C" 
+    },
+    { 
+      "id": 40, 
+      "text": "Sembrar y plantar en una granja durante las vacaciones.", 
+      "habilidad": "A.L" 
+    },
+    { 
+      "id": 41, 
+      "text": "Ayudar a los compañeros en sus dificultades y preocupaciones.", 
+      "habilidad": "S.S" 
+    },
+    { 
+      "id": 42, 
+      "text": "Leer biografías de políticos eminentes.", 
+      "habilidad": "E.P" 
+    },
+    { 
+      "id": 43, 
+      "text": "Participar en un concurso de oratoria.", 
+      "habilidad": "V" },
+    
+      { 
+      "id": 44, 
+      "text": "Diseñar el vestuario para una función teatral.", 
+      "habilidad": "A.P" 
+    },
+    { 
+      "id": 45, 
+      "text": "Leer biografías de músicos eminentes.", 
+      "habilidad": "M.S" 
+    },
+    { 
+      "id": 46, 
+      "text": "Encargarse del archivo y documentos de una sociedad.", 
+      "habilidad": "O.G" 
+    },
+    { 
+      "id": 47, 
+      "text": "Leer revistas y libros científicos.", 
+      "habilidad": "C.T" 
+    },
+    { 
+      "id": 48, 
+      "text": "Participar en concursos de matemáticas.", 
+      "habilidad": "C.L" 
+    },
+    { 
+      "id": 49, 
+      "text": "Proyectar y dirigir alguna construcción.", 
+      "habilidad": "M.C" 
+    },
+    { 
+      "id": 50, 
+      "text": "Atender animales en un rancho durante las vacaciones.", 
+      "habilidad": "A.L" 
+    },
+    { 
+      "id": 51, 
+      "text": "Funcionario al servicio de las clases humildes.", 
+      "habilidad": "S.S" 
+    },
+    { 
+      "id": 52, 
+      "text": "Experto en relaciones sociales de una gran empresa.", 
+      "habilidad": "E.P" 
+    },
+    { 
+      "id": 53, 
+      "text": "Escritor en un periódico o empresa editorial.", 
+      "habilidad": "V" },
+    
+      { 
+      "id": 54, 
+      "text": "Dibujante profesional en una empresa.", 
+      "habilidad": "A.P" 
+    },
+    { 
+      "id": 55, 
+      "text": "Concertista en una sinfónica.", 
+      "habilidad": "M.S" 
+    },
+    { 
+      "id": 56, 
+      "text": "Técnico organizador de oficinas.", 
+      "habilidad": "O.G" 
+    },
+    { 
+      "id": 57, 
+      "text": "Investigador en un laboratorio.", 
+      "habilidad": "C.T" 
+    },
+    { 
+      "id": 58, 
+      "text": "Experto analista en una institución.", 
+      "habilidad": "C.L" 
+    },
+    { 
+      "id": 59, 
+      "text": "Perito mecánico en un gran taller.", 
+      "habilidad": "M.C" 
+    },
+    { 
+      "id": 60, 
+      "text": "Técnico cuyas actividades se desempeñen fuera de la ciudad.", 
+      "habilidad": "A.L" 
+    }
+ 
+   
+  ]
+  
